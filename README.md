@@ -28,6 +28,6 @@ Arduino IDE;<br>
 仓库目录介绍：
 ============
 README.md-----仓库介绍；<br>
-images--------项目图片与视频；<br>
+images--------项目图片；<br>
 Sourcecode----项目源代码；<br>
 Executable----可执行文件；<br>
